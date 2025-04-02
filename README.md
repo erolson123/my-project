@@ -1,6 +1,6 @@
 # Essay Checker
 
-An AI-powered essay analysis tool that helps students improve their essays by providing detailed feedback, suggestions, and thought-provoking questions.
+Many people struggle to find the right tools to help them edit their essays. Our app, EssayChecker, lets users write and upload their essays and get direct feedback from generative AI. This is an AI-powered essay analysis tool that helps students improve their essays by providing detailed feedback, suggestions, and thought-provoking questions.
 
 ## Features
 
