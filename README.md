@@ -53,7 +53,8 @@ Many people struggle to find the right tools to help them edit their essays. Our
 5. Click "Analyze Essay" to receive AI-powered feedback
 
 Link to Video on how to use the app: 
-https://github.com/user-attachments/assets/fd5937e9-f0cb-4dde-920f-c3bac61c5194
+
+
 ## Technologies Used
 
 - Next.js 14
@@ -69,7 +70,11 @@ https://github.com/user-attachments/assets/fd5937e9-f0cb-4dde-920f-c3bac61c5194
 Create a `.env` file with the following variables:
 
 ```
-OPENAI_API_KEY=your_openai_api_key
+OPENAI_API_KEY=yo
+
+https://github.com/user-attachments/assets/5e7e52be-0678-40c8-a20f-211cf27abd26
+
+ur_openai_api_key
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
