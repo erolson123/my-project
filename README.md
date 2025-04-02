@@ -52,6 +52,8 @@ Many people struggle to find the right tools to help them edit their essays. Our
 4. Paste your essay
 5. Click "Analyze Essay" to receive AI-powered feedback
 
+Link to Video on how to use the app: 
+https://github.com/user-attachments/assets/fd5937e9-f0cb-4dde-920f-c3bac61c5194
 ## Technologies Used
 
 - Next.js 14
